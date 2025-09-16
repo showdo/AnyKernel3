@@ -1,6 +1,7 @@
 ### AnyKernel methods (DO NOT CHANGE)
 ## osm0sis @ xda-developers
-#特意开放的这个脚本，欢迎你这倒钩来改的，看的明白吗你就改🤓
+#请勿对本文件内进行任意修改，否则将无法正常刷入
+#power by https://t.me/qdykernel
 
 [ "$OUTFD" ] || OUTFD=$1;
 
